@@ -1,9 +1,4 @@
-¸öÈËÐÅÏ¢£º2011011239  ¼Æ13°à  ÍõÇì 
-ÁªÏµ·½Ê½£ºwang1160997741@163.com  18810656265
-ÔËÐÐ»·¾³£ºPython 3.X°æ±¾  
-ÔËÐÐ·½·¨£ºÊ¹ÓÃpycharm±à¼­Æ÷£¨±à¼­Æ÷´ò¿ªdecision_treeÕâ¸öÎÄ¼þ¼Ð£¬ÅäÖÃ3.XµÄpython°æ±¾£¬ÔËÐÐ¼´¿É£©
-½á¹ûËµÃ÷£º
-pycharm±à¼­Æ÷µÄconsole»áÏÔÊ¾½á¹û
-
-
-ps£º·Ç³£±§Ç¸Íí½»£¬ÕâÑ§ÆÚ×Ô¼ºÃ»ÓÐ°²ÅÅºÃÊ±¼ä£¬sorry~
+è¿è¡ŒçŽ¯å¢ƒï¼šPython 3.Xç‰ˆæœ¬  
+è¿è¡Œæ–¹æ³•ï¼šä½¿ç”¨pycharmç¼–è¾‘å™¨ï¼ˆç¼–è¾‘å™¨æ‰“å¼€decision_treeè¿™ä¸ªæ–‡ä»¶å¤¹ï¼Œé…ç½®3.Xçš„pythonç‰ˆæœ¬ï¼Œè¿è¡Œå³å¯ï¼‰
+ç»“æžœè¯´æ˜Žï¼š
+pycharmç¼–è¾‘å™¨çš„consoleä¼šæ˜¾ç¤ºç»“æžœ
